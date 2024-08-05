@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Samson travelled 5 km 52 m by bus, 2 km 265 m by car and the rest 1km 30 m he walked. How much distance did he travel in all in kms?",
+    "options": [
+      "8.357 km",
+      "9.347 km",
+      "9.357 km",
+      "8.347 km"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Billie wanted to measure the length of his table top in metres. He had a 50 cm scale. He found that the length of the table top was 156 cm. What will be its length in metres?",
+    "options": [
+      "156 metres",
+      "15.6 metres",
+      "1.56 metres",
+      "15.06 metres"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Joe pays $1.63 for a cappucino on days he's running late to work. One week he was late on Tuesday, Thursday, and Friday. How much did he spend on cappucinos that week?",
+    "options": [
+      "$1.63",
+      "$3.26",
+      "$3.89",
+      "$4.89"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Mrs. Davis planted red flowers in 0.6 of her garden. She also planted yellow flowers in 0.4 of her garden. In 0.5 of the part with red flowers, she also planted white flowers. What part of Mrs. Davis' garden has both red and white flowers?",
+    "options": [
+      "0.1",
+      "0.2",
+      "0.3",
+      "0.9"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Gail pays $0.06 sales tax on each dollar she spends. If she buys a new bike for $137.00, how much sales tax will Gail pay?",
+    "options": [
+      "$8.22",
+      "$18.00",
+      "$82.20",
+      "$145.22"
+    ],
+    "correct": 0
+  }
+]
